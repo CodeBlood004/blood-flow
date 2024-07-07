@@ -1,0 +1,9 @@
+export 'package:flutter/material.dart';
+export 'package:velocity_x/velocity_x.dart';
+export 'package:fitness_care/consts/colors.dart';
+export 'package:fitness_care/consts/images.dart';
+export 'package:fitness_care/consts/fonts.dart';
+export 'package:fitness_care/consts/icons.dart';
+export 'package:font_awesome_flutter/font_awesome_flutter.dart';
+export 'package:get/get.dart';
+export 'package:flutter_screenutil/flutter_screenutil.dart';

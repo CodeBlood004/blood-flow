@@ -1,0 +1,82 @@
+{
+  "project_info": {
+    "project_number": "629932868335",
+    "project_id": "visor-firebase",
+    "storage_bucket": "visor-firebase.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:629932868335:android:140fe407b53117ff29d11a",
+        "android_client_info": {
+          "package_name": "com.example.fitness_care"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "629932868335-guvgunepsdmboii8tptv1p6i6s6ldhaf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDNxLwAqjae64I8vs0HcdUu-uo7bRGEng0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "629932868335-guvgunepsdmboii8tptv1p6i6s6ldhaf.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "629932868335-ve9okgal21vr2jfj7qk778vuecukdruc.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.fitnessCare"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:629932868335:android:04f2c614b2cd9c0029d11a",
+        "android_client_info": {
+          "package_name": "com.visor.fitness_care"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "629932868335-guvgunepsdmboii8tptv1p6i6s6ldhaf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDNxLwAqjae64I8vs0HcdUu-uo7bRGEng0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "629932868335-guvgunepsdmboii8tptv1p6i6s6ldhaf.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "629932868335-ve9okgal21vr2jfj7qk778vuecukdruc.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.fitnessCare"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
